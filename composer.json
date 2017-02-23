@@ -1,0 +1,28 @@
+{
+    "name": "10quality/php-class-to-javascript",
+    "description": "PHP trait that casts (transforms, converts) classes into javascript objects (string version).",
+    "license": "MIT",
+    "keywords": ["php","cast","javascript","trait"],
+    "authors": [
+        {
+            "name": "Alejandro Mostajo",
+            "email": "amostajo@gmail.com"
+        },
+        {
+            "name": "10 Quality",
+            "email": "info@10quality.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TenQuality\\Traits\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
