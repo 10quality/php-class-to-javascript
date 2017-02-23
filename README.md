@@ -1,4 +1,4 @@
-# Class to Javascropt (PHP trait)
+# Class to Javascript (PHP trait)
 
 [![Latest Stable Version](https://poser.pugx.org//10quality/php-class-to-javascript/v/stable)](https://packagist.org/packages//10quality/php-class-to-javascript)
 [![Total Downloads](https://poser.pugx.org//10quality/php-class-to-javascript/downloads)](https://packagist.org/packages//10quality/php-class-to-javascript)
