@@ -1,8 +1,8 @@
 # Class to Javascript (PHP trait)
 
-[![Latest Stable Version](https://poser.pugx.org//10quality/php-class-to-javascript/v/stable)](https://packagist.org/packages//10quality/php-class-to-javascript)
-[![Total Downloads](https://poser.pugx.org//10quality/php-class-to-javascript/downloads)](https://packagist.org/packages//10quality/php-class-to-javascript)
-[![License](https://poser.pugx.org//10quality/php-class-to-javascript/license)](https://packagist.org/packages//10quality/php-class-to-javascript)
+[![Latest Stable Version](https://poser.pugx.org/10quality/php-class-to-javascript/v/stable)](https://packagist.org/packages/10quality/php-class-to-javascript)
+[![Total Downloads](https://poser.pugx.org/10quality/php-class-to-javascript/downloads)](https://packagist.org/packages/10quality/php-class-to-javascript)
+[![License](https://poser.pugx.org/10quality/php-class-to-javascript/license)](https://packagist.org/packages/10quality/php-class-to-javascript)
 
 PHP trait that casts (transforms, converts) classes into javascript objects (string version).
 
@@ -10,7 +10,7 @@ PHP trait that casts (transforms, converts) classes into javascript objects (str
 
 With composer, make the dependecy required in your project:
 ```bash
-composer require /10quality/php-class-to-javascript
+composer require 10quality/php-class-to-javascript
 ```
 
 ## Usage
